@@ -1,0 +1,131 @@
+H2 geometry
+H        0.000000    0.000000    0.000000
+H        0.000000    0.000000    0.740000
+
+H2O geometry
+O        0.000000    0.000000    0.000000
+H        0.000000    0.000000    0.960000
+H        0.905097    0.000000   -0.320000
+
+HCHO geometry
+C        0.000000    0.000000    0.000000
+O        0.000000    0.000000    1.220000
+H        0.935307    0.000000   -0.540000
+H       -0.935307    0.000000   -0.540000
+
+
+H2 CCSD/STO-3G
+ MP2 Energy  -1.3138073582750109E-002
+ The energy of iteration            1 is  -1.7905085931731932E-002
+ The energy of iteration            2 is  -1.9600596642688213E-002
+ The energy of iteration            3 is  -2.0199264720713178E-002
+ The energy of iteration            4 is  -2.0410098989693447E-002
+ The energy of iteration            5 is  -2.0484280678405558E-002
+ The energy of iteration            6 is  -2.0510372923609937E-002
+ The energy of iteration            7 is  -2.0519549414709862E-002
+ The energy of iteration            8 is  -2.0522776603845858E-002
+ The energy of iteration            9 is  -2.0523911525968063E-002
+ The energy of iteration           10 is  -2.0524310647859270E-002
+ The energy of iteration           11 is  -2.0524451008156155E-002
+ The energy of iteration           12 is  -2.0524500369018803E-002
+ The final Energy is:   -2.0524500369018803E-002
+
+H2O CCSD/STO-3G
+ MP2 Energy  -3.5047110839577539E-002
+ The energy of iteration            1 is  -4.4366556775234552E-002
+ The energy of iteration            2 is  -4.7270135040585658E-002
+ The energy of iteration            3 is  -4.8288708061170277E-002
+ The energy of iteration            4 is  -4.8676952296897918E-002
+ The energy of iteration            5 is  -4.8833855152340386E-002
+ The energy of iteration            6 is  -4.8900140706533292E-002
+ The energy of iteration            7 is  -4.8929181377596949E-002
+ The energy of iteration            8 is  -4.8942310052619453E-002
+ The energy of iteration            9 is  -4.8948410396671707E-002
+ The energy of iteration           10 is  -4.8951313125482142E-002
+ The energy of iteration           11 is  -4.8952722413744758E-002
+ The energy of iteration           12 is  -4.8953418110383208E-002
+ The energy of iteration           13 is  -4.8953766193215349E-002
+ The energy of iteration           14 is  -4.8953942221966668E-002
+ The energy of iteration           15 is  -4.8954031989115979E-002
+ The final Energy is:   -4.8954031989115979E-002
+
+HCHO CCSD/STO-3G
+ MP2 Energy -0.11630301386723635     
+ The energy of iteration            1 is -0.13074060620310138     
+ The energy of iteration            2 is -0.13724401030111835     
+ The energy of iteration            3 is -0.13934228652015918     
+ The energy of iteration            4 is -0.14044544892855532     
+ The energy of iteration            5 is -0.14094488699944391     
+ The energy of iteration            6 is -0.14120813920118741     
+ The energy of iteration            7 is -0.14134263667120017     
+ The energy of iteration            8 is -0.14141476562376240     
+ The energy of iteration            9 is -0.14145337526225160     
+ The energy of iteration           10 is -0.14147439262721839     
+ The energy of iteration           11 is -0.14148586666872204     
+ The energy of iteration           12 is -0.14149217323472593     
+ The energy of iteration           13 is -0.14149564896771369     
+ The energy of iteration           14 is -0.14149757083488382     
+ The energy of iteration           15 is -0.14149863559823839     
+ The energy of iteration           16 is -0.14149922661712969     
+ The energy of iteration           17 is -0.14149955512829143     
+ The energy of iteration           18 is -0.14149973795186310     
+ The energy of iteration           19 is -0.14149983979814568     
+ The energy of iteration           20 is -0.14149989658309853     
+ The final Energy is:  -0.14149989658309853     
+
+H2 CCD/STO-3G
+ MP2 Energy  -1.3138073582750109E-002
+ The energy of iteration            1 is  -1.7905085931731932E-002
+ The energy of iteration            2 is  -1.9600596642688213E-002
+ The energy of iteration            3 is  -2.0199264720713178E-002
+ The energy of iteration            4 is  -2.0410098989693447E-002
+ The energy of iteration            5 is  -2.0484280678405558E-002
+ The energy of iteration            6 is  -2.0510372923609937E-002
+ The energy of iteration            7 is  -2.0519549414709862E-002
+ The energy of iteration            8 is  -2.0522776603845858E-002
+ The energy of iteration            9 is  -2.0523911525968063E-002
+ The energy of iteration           10 is  -2.0524310647859270E-002
+ The energy of iteration           11 is  -2.0524451008156155E-002
+ The energy of iteration           12 is  -2.0524500369018803E-002
+ The final Energy is:   -2.0524500369018803E-002
+
+H2O CCD/STO-3G
+ MP2 Energy  -3.5047110839577539E-002
+ The energy of iteration            1 is  -4.4374981083987512E-002
+ The energy of iteration            2 is  -4.7185084506835555E-002
+ The energy of iteration            3 is  -4.8127981779772511E-002
+ The energy of iteration            4 is  -4.8468676754869301E-002
+ The energy of iteration            5 is  -4.8597584624051129E-002
+ The energy of iteration            6 is  -4.8647793807821860E-002
+ The energy of iteration            7 is  -4.8667743065581574E-002
+ The energy of iteration            8 is  -4.8675793466154985E-002
+ The energy of iteration            9 is  -4.8679086953982917E-002
+ The energy of iteration           10 is  -4.8680452109431720E-002
+ The energy of iteration           11 is  -4.8681025393197255E-002
+ The energy of iteration           12 is  -4.8681269320058243E-002
+ The energy of iteration           13 is  -4.8681374484053970E-002
+ The energy of iteration           14 is  -4.8681420417768427E-002
+ The final Energy is:   -4.8681420417768427E-002
+
+HCHO CCD/STO-3G
+ MP2 Energy -0.11630301386723635     
+ The energy of iteration            1 is -0.13093250079915497     
+ The energy of iteration            2 is -0.13617195455794415     
+ The energy of iteration            3 is -0.13837894179810351     
+ The energy of iteration            4 is -0.13941881603851203     
+ The energy of iteration            5 is -0.13993153544666143     
+ The energy of iteration            6 is -0.14019455615254026     
+ The energy of iteration            7 is -0.14033258899631193     
+ The energy of iteration            8 is -0.14040627076727125     
+ The energy of iteration            9 is -0.14044601872058471     
+ The energy of iteration           10 is -0.14046761905386701     
+ The energy of iteration           11 is -0.14047941293191213     
+ The energy of iteration           12 is -0.14048587322644132     
+ The energy of iteration           13 is -0.14048941952369776     
+ The energy of iteration           14 is -0.14049136907618440     
+ The energy of iteration           15 is -0.14049244190730523     
+ The energy of iteration           16 is -0.14049303270100671     
+ The energy of iteration           17 is -0.14049335820843775     
+ The energy of iteration           18 is -0.14049353761927841     
+ The energy of iteration           19 is -0.14049363653373781     
+ The final Energy is:  -0.14049363653373781     

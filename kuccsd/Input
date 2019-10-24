@@ -1,0 +1,9 @@
+Method = CCD
+EpsI = EpsI_hcho 
+EpsA = EpsA_hcho 
+abcd = Iabcd_hcho 
+iabc = Iiabc_hcho 
+iajb = Iiajb_hcho 
+ijab = Iijab_hcho 
+ijka = Iijka_hcho 
+ijkl = Iijkl_hcho 
