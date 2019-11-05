@@ -1,5 +1,5 @@
-# CHEM-750-Code
-Programs written by students in the Spring 2015 iteration of CHEM 750: Advanced Quantum Chemistry at the University of Kansas
+# CHEM-Course-Code
+Programs written by students in the Spring 2015 iteration of CHEM 850: Advanced Quantum Chemistry at the University of Kansas
 
 Fortran 08 stand-alone RHF and unrestricted CCSD code programs, developed by the Spring 2015 Advanced Quantum Chemistry class. 
 The scripts can be compiled with a simple gfortran compiler. The RHF program uses uncontracted s-type Gaussian functions 
